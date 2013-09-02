@@ -1,0 +1,5 @@
+Simple arduino based audio player.
+
+Currently reads raw 11KHz, 8-bit unsigned audio data from the serial port.  
+
+Example circuit at https://upverter.com/pbrook/3fc9174a3ebe09b2/simple-dac/
